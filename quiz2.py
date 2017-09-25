@@ -65,7 +65,7 @@ elif num1<num2:
         else:
             print("Incorrect")
 else:
-    print("Your number are the same")
+    print("Your numbers are the same")
     if num1%3==0:
         print("Both your numbers are divisible by 3")
         product1 = int(input("What is the product of your numbers?"))
